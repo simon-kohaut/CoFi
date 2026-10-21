@@ -150,7 +150,7 @@ The extra dependencies include ffmpeg on Windows, macOS and Linux; on other plat
 
 ## Citation
 
-If you use CoFi, please cite the paper below. CoFi builds on [ProMis](https://github.com/HRI-EU/ProMis); please also consider citing its [publications](https://github.com/HRI-EU/ProMis#cite).
+If you use CoFi, please cite the paper below.
 
 ```bibtex
 @inproceedings{kohaut2025cofi,
